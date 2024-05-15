@@ -14,7 +14,7 @@ I'm a third-year Computer Science Engineering student at BCREC (Dr. B.C Roy Engi
 
 - **Problem Solver:** I thrive on solving complex problems by applying classical strategies in unique and creative ways.
 - **Engineering Student:** Currently pursuing my Bachelor's in Computer Science Engineering at BCREC.
-- **Google Developer Group Member:** Proud member of Google Developer Group Durgapur.
+- **GSSoC'24 Contributer:** Contributing on various open source projects.
 - **GitHub Enthusiast:** Constantly learning and exploring new technologies, tools, and methodologies on GitHub.
 
 ## 🌐 Get in Touch
