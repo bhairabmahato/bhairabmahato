@@ -1,4 +1,4 @@
-[![MasterHead](https://img.freepik.com/premium-photo/python-programming-language-programing-workflow-abstract-algorithm-concept-virtual-screen_161452-10951.jpg?w=1800)]
+
 <h1 align="center">Hi 👋, I'm Bhairab Mahato</h1>
 <h3 align="center">A passionate developer from India</h3>
 
