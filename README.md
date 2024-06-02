@@ -1,29 +1,60 @@
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Bhairab+Mahato!;" />
+</h1>
 
-<h1 align="center">Hi 👋, I'm Bhairab Mahato</h1>
-<h3 align="center">A passionate developer from India</h3>
+  
+## 🧑‍🎓 About Me
+
+I'm a third-year Computer Science Engineering student at BCREC (Dr. B.C Roy Engineering College), where I'm passionate about merging classical problem-solving strategies with modern-day project development. I believe in the power of creativity to tackle challenges head-on and find innovative solutions.
+
+## 🔭 What I Do
+
+<img align="right" alt="coding" width="250" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bhairabmahato&label=Profile%20views&color=0e75b6&style=flat" alt="bhairabmahato" /> </p>
+- **Problem Solver:** I thrive on solving complex problems by applying classical strategies in unique and creative ways.
+- **Engineering Student:** Currently pursuing my Bachelor's in Computer Science Engineering at BCREC.
+- **Google Developer Group Member:** Proud member of Google Developer Group Durgapur.
+- **GitHub Enthusiast:** Constantly learning and exploring new technologies, tools, and methodologies on GitHub.
 
-<p align="left"> <a href="https://twitter.com/bhairabmahato" target="blank"><img src="https://img.shields.io/twitter/follow/bhairabmahato?logo=twitter&style=for-the-badge" alt="bhairabmahato" /></a> </p>
+## 🌐 Get in Touch
 
-- 🌱 I’m currently learning **Machine Learning**
+📫 Feel free to reach out to me via   <a href="mailto:arpanendu2403@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="arpanendu2403@gmail.com" height="18" width="50" />
+  </a> or connect with me on 
 
-- 📫 How to reach me **bhairabmahato7384@gmail.com**
-
-- ⚡ Fun fact **I am Crazy**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/bhairabmahato" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bhairabmahato" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/inumula kalyan kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="inumula kalyan kumar" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/arpanendu khag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arpanendu khag" height="20" width="35" /></a>
+<a href="https://www.hackerrank.com/@arpanendu2403" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@arpanendu2403" height="20" width="35" /></a>
+  <a href="https://arpanendukhag.github.io/Porfolio_AK/" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" height="20" width="80"  /> 
+  </a>
+
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhairabmahato&show_icons=true&locale=en&layout=compact" alt="bhairabmahato" /></p>
+## 💻 Tech Stack:
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bhairabmahato&show_icons=true&locale=en" alt="bhairabmahato" /></p>
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhairabmahato&" alt="bhairabmahato" /></p>
+<div align="center">
+
+    
+## 🐍 My Contributions 🐍
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/arpanendukhag/arpanendukhag/output/github-contribution-grid-snake.svg" />
+  
+</div>
+
+
+<h2 align="center">⚡ Stats ⚡</h2>
+<div align=center>
+    
+[![GitHub Streak](https://streak-stats.demolab.com/?user=arpanendukhag&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10)](https://git.io/streak-stats)
+
+    
+![Arpanendukhag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arpanendukhag&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10)
+    
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arpanendukhag&layout=donut-vertical&&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats)](https://github.com/arpanendukhag/github-readme-stats)
+
+</div>
+<hr/>
