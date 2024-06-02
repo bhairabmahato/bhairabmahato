@@ -45,11 +45,11 @@ I'm a third-year Computer Science Engineering student at BCREC (Dr. B.C Roy Engi
 <h2 align="center">⚡ Stats ⚡</h2>
 <div align=center>
     
-[![GitHub Streak](https://streak-stats.demolab.com/?user=arpanendukhag&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=bhairabmahato&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10)](https://git.io/streak-stats)
 
-![Arpanendukhag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arpanendukhag&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10)
+![Arpanendukhag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhairabmahato&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arpanendukhag&layout=donut-vertical&&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats)](https://github.com/arpanendukhag/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhairabmahato&layout=donut-vertical&&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats)](https://github.com/bhairabmahato/github-readme-stats)
 
 </div>
 <hr/>
