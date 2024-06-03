@@ -17,13 +17,11 @@ I'm a third-year Computer Science Engineering student at BCREC (Dr. B.C Roy Engi
 ## 🌐 Get in Touch
 
 📫 Feel free to reach out to me via <a href="mailto:bhairabmahato7384@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="arpanendu2403@gmail.com" height="18" width="50" />
+<img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="bhairabmahato7384@gmail.com" height="18" width="50" />
 </a> or connect with me on
 
 <p align="left">
 <a href="https://linkedin.com/in/arpanendu khag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arpanendu khag" height="20" width="35" /></a>
-<a href="https://www.hackerrank.com/@arpanendu2403" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@arpanendu2403" height="20" width="35" /></a>
-  <a href="https://arpanendukhag.github.io/Porfolio_AK/" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" height="20" width="80"  /> 
   </a>
 
