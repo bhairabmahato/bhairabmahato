@@ -12,12 +12,11 @@ I'm a third-year Computer Science Engineering student at BCREC (Dr. B.C Roy Engi
 
 - **Problem Solver:** I thrive on solving complex problems by applying classical strategies in unique and creative ways.
 - **Engineering Student:** Currently pursuing my Bachelor's in Computer Science Engineering at BCREC.
-- **Google Developer Group Member:** Proud member of Google Developer Group Durgapur.
 - **GitHub Enthusiast:** Constantly learning and exploring new technologies, tools, and methodologies on GitHub.
 
 ## 🌐 Get in Touch
 
-📫 Feel free to reach out to me via <a href="mailto:arpanendu2403@gmail.com">
+📫 Feel free to reach out to me via <a href="mailto:bhairabmahato7384@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="arpanendu2403@gmail.com" height="18" width="50" />
 </a> or connect with me on
 
@@ -47,7 +46,7 @@ I'm a third-year Computer Science Engineering student at BCREC (Dr. B.C Roy Engi
     
 [![GitHub Streak](https://streak-stats.demolab.com/?user=bhairabmahato&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10)](https://git.io/streak-stats)
 
-![Arpanendukhag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhairabmahato&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10)
+![Bhairabmahato's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhairabmahato&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhairabmahato&layout=donut-vertical&&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats)](https://github.com/bhairabmahato/github-readme-stats)
 
